@@ -37,7 +37,7 @@ if __name__ == "__main__":
 	mylist = LinkedList()
 	mylist.insertLast(10)
 	mylist.insertLast(20)
-	mylist.insertLast(30)
+	mylist.insertLast(40)
 	mylist.viewList()
 	mylist.deleteFirst()
 	mylist.viewList()
